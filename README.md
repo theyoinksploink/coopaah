@@ -10,7 +10,7 @@
 I am a 15 year old American developer in hopes of bringing a nice, active project to life!
 
 ### My main focus right now is
-https://fortipaw.tech/ -- A high quality Discord server security bot that allows for anti-raid, anti-spam, anti-scams, anti-alts, and so much more!
+https://bot.coopr.tech/ -- A free-to-use every-purpose server tool. Easily moderate your servers with the lowest latency and the fastest speeds.
 
 ### Portfolio
 if you would like commissioned work :p
