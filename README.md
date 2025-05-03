@@ -7,7 +7,7 @@
 ## About Me
 
 ### In short...
-I am a 15 year old American developer in hopes of bringing a nice, active project to life!
+I am a 16 year old American developer in hopes of bringing a nice, active project to life!
 
 ### My main focus right now is
 https://bot.coopr.tech/ -- A free-to-use every-purpose server tool. Easily moderate your servers with the lowest latency and the fastest speeds.
