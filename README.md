@@ -10,8 +10,8 @@
 I am a 16 year old American developer in hopes of bringing a nice, active project to life!
 
 ### My main focus right now is
-https://bot.coopr.tech/ -- A free-to-use every-purpose server tool. Easily moderate your servers with the lowest latency and the fastest speeds.
+https://fluidi.tech/ -- A ROBLOX experience/game studio. Bringing high quality community-driven games to the platform.
 
 ### Portfolio
 if you would like commissioned work :p
-https://coopr.tech/
+~~https://coopr.tech/~~ Temporarily https://fluidi.tech/c
